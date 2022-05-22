@@ -2,3 +2,15 @@ anotações de introdução
 
 download
 https://git-scm.com/downloads
+
+git status
+Status dos arquivos.
+
+git add .
+adiciona os arquivos "criados" para commit
+
+git commit -m "Mensagem"
+Commit dos arquivos adicionados 
+
+git push origin main
+sobe o commit para a nuvem GitHub
